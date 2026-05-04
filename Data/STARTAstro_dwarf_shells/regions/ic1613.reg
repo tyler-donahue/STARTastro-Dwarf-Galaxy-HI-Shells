@@ -1,0 +1,14 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font='helvetica 10 normal' select=1 highlite=1 edit=1 move=1 delete=1 include=1 fixed=0
+fk5
+ellipse(01:04:31.8,+02:07:24.8,109.76",32.93",120) # color=green width=2 text={1} font="helvetica 10 normal"
+ellipse(01:04:37.1,+02:10:08.3,62.62",31.31",140) # color=green width=2 text={2} font="helvetica 10 normal"
+ellipse(01:04:48.8,+02:12:41.3,93.41",65.39",60) # color=green width=2 text={3} font="helvetica 10 normal"
+ellipse(01:04:49.2,+02:03:29.3,30.79",21.55",144) # color=green width=2 text={4} font="helvetica 10 normal"
+ellipse(01:04:54.6,+02:07:14.3,120.96",72.58",132) # color=green width=2 text={5} font="helvetica 10 normal"
+ellipse(01:04:53.4,+02:03:35.3,21.07",21.07",90) # color=green width=2 text={6} font="helvetica 10 normal"
+ellipse(01:04:58.4,+02:09:26.3,25.34",20.27",144) # color=green width=2 text={7} font="helvetica 10 normal"
+ellipse(01:05:03.3,+02:11:14.3,43.46",21.73",164) # color=green width=2 text={8} font="helvetica 10 normal"
+ellipse(01:05:04.4,+02:09:17.3,24.02",16.81",154) # color=green width=2 text={9} font="helvetica 10 normal"
+ellipse(01:05:06.0,+02:07:29.3,22.98",16.09",132) # color=green width=2 text={10} font="helvetica 10 normal"
+ellipse(01:05:09.7,+02:09:35.3,28.14",19.70",171) # color=green width=2 text={11} font="helvetica 10 normal"

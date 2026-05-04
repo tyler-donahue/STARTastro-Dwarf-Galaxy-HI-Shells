@@ -1,0 +1,21 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font='helvetica 10 normal' select=1 highlite=1 edit=1 move=1 delete=1 include=1 fixed=0
+fk5
+ellipse(10:49:21.0,+65:30:43.9,6.90",6.90",90) # color=red width=3 text={1} font="helvetica 10 normal"
+ellipse(10:49:21.7,+65:31:33.4,18.00",18.00",90) # color=green width=2 text={2} font="helvetica 10 normal"
+ellipse(10:49:25.1,+65:30:57.4,18.00",18.00",90) # color=green width=2 text={3} font="helvetica 10 normal"
+ellipse(10:49:26.5,+65:32:01.9,6.58",3.29",172) # color=cyan width=2 text={4} font="helvetica 10 normal" dash=1
+ellipse(10:49:28.7,+65:32:39.4,24.38",12.19",180) # color=green width=2 text={5} font="helvetica 10 normal"
+ellipse(10:49:31.6,+65:33:18.5,6.36",4.45",43) # color=cyan width=2 text={6} font="helvetica 10 normal" dash=1
+ellipse(10:49:32.1,+65:31:56.0,9.26",7.40",5) # color=cyan width=2 text={7} font="helvetica 10 normal" dash=1
+ellipse(10:49:32.9,+65:31:04.8,11.40",11.40",90) # color=red width=3 text={8} font="helvetica 10 normal"
+ellipse(10:49:33.3,+65:31:48.5,10.21",10.21",90) # color=red width=3 text={9} font="helvetica 10 normal"
+ellipse(10:49:36.0,+65:30:44.1,9.28",8.35",140) # color=cyan width=2 text={10} font="helvetica 10 normal" dash=1
+ellipse(10:49:36.2,+65:29:59.0,4.77",3.81",177) # color=cyan width=2 text={11} font="helvetica 10 normal" dash=1
+ellipse(10:49:37.6,+65:31:42.5,5.40",5.40",90) # color=red width=3 text={12} font="helvetica 10 normal"
+ellipse(10:49:38.8,+65:32:31.9,18.83",11.30",89) # color=green width=2 text={13} font="helvetica 10 normal"
+ellipse(10:49:40.0,+65:31:31.4,9.00",9.00",90) # color=red width=3 text={14} font="helvetica 10 normal"
+ellipse(10:49:41.0,+65:30:43.9,8.99",8.09",178) # color=green width=2 text={15} font="helvetica 10 normal"
+ellipse(10:49:49.4,+65:32:22.9,14.71",10.29",85) # color=cyan width=2 text={16} font="helvetica 10 normal" dash=1
+ellipse(10:49:51.6,+65:31:10.9,6.43",3.86",39) # color=cyan width=2 text={17} font="helvetica 10 normal" dash=1
+ellipse(10:49:55.0,+65:32:16.9,8.40",8.40",90) # color=red width=3 text={18} font="helvetica 10 normal"

@@ -1,0 +1,44 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font='helvetica 10 normal' select=1 highlite=1 edit=1 move=1 delete=1 include=1 fixed=0
+fk5
+ellipse(08:18:22.2,+70:44:29.1,46.14",23.07",110) # color=green width=2 text={1} font="helvetica 10 normal"
+ellipse(08:18:28.0,+70:42:18.7,30.03",18.02",17) # color=green width=2 text={2} font="helvetica 10 normal"
+ellipse(08:18:31.5,+70:45:36.8,29.15",11.66",174) # color=green width=2 text={3} font="helvetica 10 normal"
+ellipse(08:18:36.0,+70:44:42.1,22.51",22.51",90) # color=red width=3 text={4} font="helvetica 10 normal"
+ellipse(08:18:38.2,+70:46:44.4,30.67",24.53",136) # color=green width=2 text={5} font="helvetica 10 normal"
+ellipse(08:18:38.8,+70:45:47.4,28.09",16.85",73) # color=green width=2 text={6} font="helvetica 10 normal"
+ellipse(08:18:39.9,+70:41:36.9,24.02",24.02",90) # color=green width=2 text={7} font="helvetica 10 normal"
+ellipse(08:18:42.6,+70:40:54.9,6.16",3.08",180) # color=green width=2 text={8} font="helvetica 10 normal"
+ellipse(08:18:49.2,+70:43:40.0,10.56",8.44",42) # color=green width=2 text={9} font="helvetica 10 normal"
+ellipse(08:18:52.8,+70:42:47.5,6.01",6.01",90) # color=red width=3 text={10} font="helvetica 10 normal"
+ellipse(08:18:54.4,+70:41:28.1,19.81",17.83",20) # color=green width=2 text={11} font="helvetica 10 normal"
+ellipse(08:18:55.3,+70:38:52.1,36.16",25.31",35) # color=green width=2 text={12} font="helvetica 10 normal"
+ellipse(08:18:57.5,+70:42:58.1,18.02",18.02",90) # color=red width=3 text={13} font="helvetica 10 normal"
+ellipse(08:18:58.2,+70:45:37.1,25.72",18.01",87) # color=green width=2 text={14} font="helvetica 10 normal"
+ellipse(08:18:59.5,+70:44:58.1,17.74",12.42",43) # color=green width=2 text={15} font="helvetica 10 normal"
+ellipse(08:19:02.8,+70:43:32.6,21.02",21.02",90) # color=green width=2 text={16} font="helvetica 10 normal"
+ellipse(08:19:05.8,+70:45:59.6,8.34",5.00",83) # color=green width=2 text={17} font="helvetica 10 normal"
+ellipse(08:19:05.9,+70:41:23.6,57.30",40.11",47) # color=green width=2 text={18} font="helvetica 10 normal"
+ellipse(08:19:07.6,+70:46:04.1,10.01",8.01",85) # color=cyan width=2 text={19} font="helvetica 10 normal" dash=1
+ellipse(08:19:07.6,+70:45:43.1,8.89",6.22",60) # color=cyan width=2 text={20} font="helvetica 10 normal" dash=1
+ellipse(08:19:09.5,+70:46:16.1,11.77",8.24",135) # color=cyan width=2 text={21} font="helvetica 10 normal" dash=1
+ellipse(08:19:12.8,+70:44:29.6,25.48",22.93",15) # color=green width=2 text={22} font="helvetica 10 normal"
+ellipse(08:19:13.1,+70:45:25.1,14.23",12.80",45) # color=cyan width=2 text={23} font="helvetica 10 normal" dash=1
+ellipse(08:19:17.1,+70:46:52.1,9.01",9.01",90) # color=green width=2 text={24} font="helvetica 10 normal"
+ellipse(08:19:19.2,+70:45:31.1,5.49",2.20",93) # color=cyan width=2 text={25} font="helvetica 10 normal" dash=1
+ellipse(08:19:20.4,+70:48:17.6,15.01",15.01",98) # color=green width=2 text={26} font="helvetica 10 normal"
+ellipse(08:19:23.1,+70:48:08.6,18.26",16.43",122) # color=green width=2 text={27} font="helvetica 10 normal"
+ellipse(08:19:23.4,+70:43:28.1,21.51",12.90",39) # color=green width=2 text={28} font="helvetica 10 normal"
+ellipse(08:19:25.2,+70:42:19.1,11.41",11.41",90) # color=cyan width=2 text={29} font="helvetica 10 normal" dash=1
+ellipse(08:19:25.6,+70:45:26.6,10.50",10.50",90) # color=red width=3 text={30} font="helvetica 10 normal"
+ellipse(08:19:26.2,+70:45:28.1,10.50",10.50",90) # color=red width=3 text={31} font="helvetica 10 normal"
+ellipse(08:19:27.8,+70:41:06.8,15.01",15.01",90) # color=red width=3 text={32} font="helvetica 10 normal"
+ellipse(08:19:28.0,+70:45:25.1,15.01",15.01",90) # color=red width=3 text={33} font="helvetica 10 normal"
+ellipse(08:19:28.8,+70:39:49.1,22.51",22.51",90) # color=green width=2 text={34} font="helvetica 10 normal"
+ellipse(08:19:29.2,+70:43:35.6,10.89",8.71",54) # color=green width=2 text={35} font="helvetica 10 normal"
+ellipse(08:19:33.1,+70:45:14.6,15.32",9.19",118) # color=green width=2 text={36} font="helvetica 10 normal"
+ellipse(08:19:35.4,+70:41:27.3,16.50",16.50",90) # color=red width=3 text={37} font="helvetica 10 normal"
+ellipse(08:19:37.4,+70:45:01.1,9.86",4.93",108) # color=green width=2 text={38} font="helvetica 10 normal"
+ellipse(08:19:37.8,+70:43:12.3,18.02",18.02",90) # color=cyan width=2 text={39} font="helvetica 10 normal" dash=1
+ellipse(08:19:40.7,+70:46:14.6,54.11",27.06",133) # color=green width=2 text={40} font="helvetica 10 normal"
+ellipse(08:19:45.2,+70:42:49.0,13.16",7.90",88) # color=cyan width=2 text={41} font="helvetica 10 normal" dash=1

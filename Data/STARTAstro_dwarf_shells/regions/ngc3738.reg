@@ -1,0 +1,6 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font='helvetica 10 normal' select=1 highlite=1 edit=1 move=1 delete=1 include=1 fixed=0
+fk5
+ellipse(11:35:45.7,+54:31:11.0,8.40",8.40",90) # color=green width=2 text={1} font="helvetica 10 normal"
+ellipse(11:35:50.4,+54:31:17.0,7.96",5.57",42) # color=green width=2 text={2} font="helvetica 10 normal"
+ellipse(11:35:52.5,+54:32:06.5,7.16",4.29",179) # color=green width=2 text={3} font="helvetica 10 normal"
